@@ -11,10 +11,11 @@
   <component name="ChangeListManager">
     <list default="true" id="743b4948-b595-4057-b6c5-d3ddba043eb9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ae33029-0709-41c9-b943-56601233b150.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5ae33029-0709-41c9-b943-56601233b150.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/hiber/web/config/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/hiber/web/config/AppInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/users-info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/users-info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/hiber/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/hiber/web/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/hiber/web/config/WebConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Tomcat 9.0.102" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.102" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="Tomcat 9.0.102" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.102" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="2_3_1_SpringMVC_Hibernate:war exploded">
@@ -191,6 +192,7 @@
       <workItem from="1741790411646" duration="4229000" />
       <workItem from="1741794698693" duration="922000" />
       <workItem from="1741799066221" duration="1591000" />
+      <workItem from="1741801928655" duration="4863000" />
     </task>
     <servers />
   </component>

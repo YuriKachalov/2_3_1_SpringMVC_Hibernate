@@ -9,14 +9,8 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-
-    @Column(name = "name")
     private String name;
-
-    @Column(name = "surname")
     private String Surname;
-
-    @Column(name = "age")
     private int age;
 
     public User() {
@@ -63,7 +57,6 @@ public class User {
     @Override
     public String toString() {
         return "User{" +
-                "id=" + id +
                 ", name='" + name + '\'' +
                 ", lastName='" + Surname + '\'' +
                 ", age=" + age +
