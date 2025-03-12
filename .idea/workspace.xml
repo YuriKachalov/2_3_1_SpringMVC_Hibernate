@@ -10,15 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="743b4948-b595-4057-b6c5-d3ddba043eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/2_3_1_SpringMVC_Hibernate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/users-info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/java/hiber/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/users.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/users.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/usersEdit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/webapp/WEB-INF/pages/usersEdit.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YuriKachalov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YuriKachalov/2_3_1_SpringMVC_Hibernate.git&quot;,
+    &quot;accountId&quot;: &quot;b447139d-4ad9-45a4-af55-1a5533644dd6&quot;
+  }
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -51,26 +64,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.UserDaoImp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat Server.Tomcat 9.0.102.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.UserDaoImp.executor": "Run",
+    "Maven.2_3_1_SpringMVC_Hibernate [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Tomcat 9.0.102.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.102" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.102" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -159,18 +173,6 @@
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -190,7 +192,9 @@
       <updated>1741757481263</updated>
       <workItem from="1741757482454" duration="12868000" />
       <workItem from="1741772547144" duration="13838000" />
-      <workItem from="1741786643262" duration="1613000" />
+      <workItem from="1741786643262" duration="2234000" />
+      <workItem from="1741790411646" duration="4229000" />
+      <workItem from="1741794698693" duration="922000" />
     </task>
     <servers />
   </component>

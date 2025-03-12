@@ -39,10 +39,6 @@
                 onclick="window.location.href = '${deleteButton}'">
             </td>
 
-                <%--            <td>--%>
-                <%--                <a href="/Update/${users.id}">edit</a>--%>
-                <%--                <a href="/Delete/${users.id}">delete</a>--%>
-                <%--            </td>--%>
         </tr>
     </c:forEach>
 </table>
@@ -50,8 +46,5 @@
 <input type="button" value="Add"
        onclick="window.location.href = 'addNewUser'"/>
 
-<%--<h2>Add</h2>--%>
-<%--<c:url value="/add" var="add"/>--%>
-<%--<a href="${add}">Add new film</a>--%>
 </body>
 </html>
