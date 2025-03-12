@@ -1040,7 +1040,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="293" parent="1" name="newbasa">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2025-03-12.12:07:02</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-03-12.17:30:26</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb3_general_ci</CollationName>
     </schema>
     <schema id="294" parent="1" name="performance_schema">
@@ -1080,7 +1080,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     <user id="303" parent="1" name="rootroot">
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <table id="304" parent="293" name="users">
+    <table id="304" parent="293" name="user">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb3_general_ci</CollationName>
     </table>
